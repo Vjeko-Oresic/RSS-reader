@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ProjektII.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ProjektII.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\bin\Debug\ProjektII.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\bin\Debug\ProjektII.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ProjektII.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ProjektII.pdb
+C:\Users\Vjeko\Documents\faks\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ProjektII.exe
+C:\Users\Vjeko\Documents\faks\Projects\csh\ProjektII\ProjektII\obj\x86\Debug\ProjektII.pdb
